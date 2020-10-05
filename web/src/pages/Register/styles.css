@@ -1,0 +1,109 @@
+.register-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+
+.register-container div#wellcome h1 {
+  margin-bottom: 15px;
+  color: #075d84;
+}
+
+.register-container div#wellcome p {
+  margin-top: 5px;
+  color: #6c6c80;
+}
+
+.register-container div#wellcome img {
+  margin-top: 30px;
+  width: 800px;
+}
+
+.register-container form {
+  width: 100%;
+  margin-right: 50px;
+  max-width: 400px;
+  background: #fff;
+  box-shadow: 0px 1px 5px #d2d2d2;
+  border-radius: 10px;
+  padding: 5px 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.register-container form div#zip {
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+}
+
+.register-container form div#zip input {
+  width: 100%;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.register-container form div#zip button {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.register-container form div#zip img {
+  width: 20px;
+}
+
+.register-container form div {
+  margin-top: 10px;
+  color: #999;
+  font-size: 14px;
+}
+
+.register-container form div a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #0092d4;
+}
+
+.register-container form h1 {
+  color: #999;
+  text-align: center;
+}
+
+.register-container form input {
+  margin-top: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  height: 40px;
+  padding: 0 18px;
+  font-size: 14px;
+  color: #666;
+  transition: all 0.2s;
+}
+
+.register-container form input:focus {
+  box-shadow: 0 0 5px 0 #3eb6ff;
+}
+
+.register-container form input::placeholder {
+  color: #999;
+}
+
+.register-container form h4 {
+  margin-top: 20px;
+  color: #999;
+}
+
+.register-container form span {
+  font-size: 13px;
+  margin-top: 4px;
+  color: #ca0000;
+}
+
+.register-container form button div {
+  margin-top: 0;
+}

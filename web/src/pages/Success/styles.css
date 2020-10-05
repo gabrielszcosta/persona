@@ -1,0 +1,42 @@
+.success-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+
+.success-container img {
+  width: 800px;
+}
+
+.success-container h1 {
+  margin-top: 50px;
+  color: #075d84;
+}
+
+.success-container a strong {
+  flex: 1;
+  text-align: center;
+  color: #fff;
+}
+
+.success-container a:hover {
+  background: #1b89bb;
+}
+
+.success-container a {
+  width: 100%;
+  max-width: 360px;
+  height: 72px;
+  background: #0092d4;
+  border-radius: 8px;
+  text-decoration: none;
+
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+
+  margin-top: 20px;
+}
