@@ -1,0 +1,25 @@
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+
+R = A solução foi disponibilizada em uma arquitetura Cloud, que envolve dois servidores, sendo um de banco de dados com a API e o outro com os arquivos estáticos da interface web.
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa
+solução, responda qual ferramenta acreditas ser apropriada para o controle de
+tarefas da equipe, a ferramenta é ágil?
+
+R = Para tal composição poderiam ser usadas ferramentas como: Trello que usa kanban para distribuir tarefas e/ou GitHub para versionamento e tambem para distribuir 
+atividades usando o recurso de issues. Ambos com suporte a metodologias ágeis.
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+
+R = Sim, porque foi entendido com clareza as regras de negócio para a solução do desafio e possuo domínio sobre as ferramentas e arquitetura utilizadas no desenvolvimento da solução, 
+sendo assim capaz de estimar prazo e distribuir tarefas baseado nos pontos fortes de cada membro da equipe.
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+
+R = Melhoria na solução do desafio, adicionando um processo de login completo com jwt ou login utilizando rede social.
+
+5. Acha válido esse desafio para o processo que está participando?
+
+R = Sim, porque ele exige na prática o uso de ferramentas necessárias para cumporir os requisitos da vaga. 
+Também exige que o participante prove que entendeu o desafio proposto e entregou uma solução satisfatória, 
+sendo ambas as coisas extremanente necessárias para o desempenho da função. 
