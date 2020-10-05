@@ -139,7 +139,7 @@ const Register = ({ history }) => {
           )}
         </button>
         <div id="login">
-          Já tem uma conta? Acesse <a href="#">aqui</a>
+          Já tem uma conta? Acesse <strong>aqui</strong>
         </div>
       </Form>
 

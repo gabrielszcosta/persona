@@ -63,9 +63,8 @@
   font-size: 14px;
 }
 
-.register-container form div a {
-  text-decoration: none;
-  font-weight: bold;
+.register-container form div#login strong {
+  cursor: pointer;
   color: #0092d4;
 }
 
